@@ -1,3 +1,5 @@
 # test_demo
 repo Github Demo Test
-new line from Github WebGUI
+New line from Github WebGUI
+New line from local git repo.
+
